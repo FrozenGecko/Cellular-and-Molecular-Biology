@@ -7,11 +7,14 @@ The plasma membrane is used for cell communication, transport of molecules, and 
 signals from the environment`
 `import and export of small molecules. Transport proteins in the membrane enable the import and export of small molecules`
 `capacity for movement and expansion. The flexibility of the membrane and its capacity for expansion allow the cell to grow, change shape, and move.`
+
 ![Internal membranes
 form many different compartments
 in a eukaryotic cell](https://imgur.com/IczaH18.png)
+
 __Internal membranes form many different compartments in a eukaryotic cell__
 ___
+
 ### The Lipid Bilayer.
 The fundimental structure of the cell membrane is the lipid bilayer. It consist of a hydrophilic head and  hydrophobic tail(s).
 ![Phosphatidylcholine is the most common](https://imgur.com/ZPW8jxn.png)
@@ -20,7 +23,7 @@ The fundimental structure of the cell membrane is the lipid bilayer. It consist 
 
 ___
 ## Essential Concepts
-
+##### These are straight from the textbook.
 
 >Cell membranes enable cells to create barriers that confine particular molecules to specific compartments. They consist of a continuous double layer—a bilayer—of lipid molecules in which proteins are embedded.
 
